@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftFulThinkingAdvancedApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ViewModifierBootcamp()
         }
     }
 }
