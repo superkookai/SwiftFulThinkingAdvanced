@@ -12,7 +12,8 @@ struct SwiftFulThinkingAdvancedApp: App {
     var body: some Scene {
         WindowGroup {
 //            ViewModifierBootcamp()
-            AnyTransitionBootcamp()
+//            AnyTransitionBootcamp()
+            MatchedGeometryEffectExample()
         }
     }
 }
