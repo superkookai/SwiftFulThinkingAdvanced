@@ -13,7 +13,8 @@ struct SwiftFulThinkingAdvancedApp: App {
         WindowGroup {
 //            ViewModifierBootcamp()
 //            AnyTransitionBootcamp()
-            MatchedGeometryEffectExample()
+//            MatchedGeometryEffectExample()
+            GeometryPreferenceKeyBootcamp()
         }
     }
 }
